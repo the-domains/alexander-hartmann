@@ -1,4 +1,3 @@
-layout_spectrum: 0.7456995567772537
 typography_spectrum: 0.9749111365526915
 color:
   brandStrength: 0.6393752968870103
@@ -11,4 +10,6 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
+layout_spectrum: 0.7456995567772537
 name: Alexander Hartmann
+title: HypnoShit
